@@ -2,7 +2,7 @@
 
 Multiple linear regression (MLR) is a statistical technique that uses several explanatory(Categorical) variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the relationship between the explanatory and response variables.
 
-Here in this repo we will learn to interpret and understand if our model fits. We will be trying to predit a home value based on categorical variables. We will learn about different models, coefficients, Multicolinearity, VIFs use of dummy variables while analysis for linear regression.
+Here in this repo we will learn to interpret and understand if our model fits. We will be trying to predit a home value based on categorical variables. We will learn about different models, coefficients, Multicolinearity, VIFs and use of dummy variables while analysis for linear regression.
 
 Here is a glimpse of what we will be doing.
 
